@@ -1,6 +1,6 @@
 -r ../requirements.txt
 yamllint
-apache-libcloud==2.2.1
+apache-libcloud==2.8.3
 boto==2.9.0
 tox
 dopy
